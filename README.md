@@ -19,7 +19,7 @@
 ## Skills and Experience
 
 ### Languages:
-- Javascript (proficient)
+- JavaScript (proficient)
 
 ### Front end frameworks / libraries / tools:
 - React.js
