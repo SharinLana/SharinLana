@@ -2,8 +2,8 @@
 
 ## Front End Web Developer (MERN stack)
 
-- Former journalist who switched her career to programming after moving from her country of origin to the US a few years ago.
-- At least 2 years experience in web development.
+- Former journalist who switched her career to programming after moving from her country of origin to the US a few years ago
+- At least 2 years experience in web development
 - Desire to collaborate on JavaScript stack, React.js, Node.js or MERN projects
 - I'm pretty shy (ambivert, closer to introvert) 
 - I never pretend to know something that I don't really know
