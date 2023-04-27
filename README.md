@@ -6,8 +6,8 @@
 - At least 2 years experience in web development
 - Desire to collaborate on JavaScript, React.js, Node.js or MERN stack projects
 - Currently learning AWS
-- I'm an ambivert, closer to introvert. Calm, focused and purposeful person
-- I love coding. No. I LOVE coding 😍. And refactoring
+- I'm an ambivert, closer to an introvert. Calm, focused and purposeful person
+- I love coding. No. I LOVE coding. And refactoring
 - I never pretend to know something that I don't really know
 - I dive deep into researching topics and solving problems. Finding the core of problems and solutions to them is one of my vital interests. The more challenging the task, the higher my interest in it
 - I respect a well-organized, intelligently automated workflow and feel happy when I can participate in improving team progress and productivity
