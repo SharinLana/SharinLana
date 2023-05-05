@@ -14,4 +14,4 @@ A former Journalist, now a Front End Web Developer, I enjoy working with data, l
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharinLana&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/svetlana-sharina-028b65235) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svetlana-sharina-028b65235) 
