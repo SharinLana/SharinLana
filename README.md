@@ -3,7 +3,7 @@
 A former Journalist, now a Front End Web Developer, I enjoy working with data, logic and language, love collaborations on new projects with like-minded people and learning all the time!
 
 - 🌱  I’m currently learning React Native and TypeScript.
-- 💬  Ask me anything about full stack web development.
+- 💬  I specialize on the MERN stack web development.
 - ⚡  Fun fact: I'm also a former ballerina.
 
 ## Skills and Technologies:
