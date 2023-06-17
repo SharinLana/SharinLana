@@ -2,7 +2,7 @@
 
 A former Journalist, now a Front End Web Developer, I enjoy working with data, logic and language, love collaborations on new projects with like-minded people and learning all the time!
 
-- 🌱  I’m currently learning TypeScript and C++
+- 🌱  I’m currently learning C++
 - 👩‍💻  I specialize on the MERN stack web development
 
 ## Skills and Technologies:
