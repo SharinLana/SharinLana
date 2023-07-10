@@ -1,6 +1,6 @@
 # Hi there! 👋 I am Svetlana.
 
-A Front End/ Full Stack Web Developer, I enjoy working with data, logic and language, love collaborations on new projects with like-minded people and learning all the time!
+A Software Engineer/ Full Stack Web Developer, I enjoy working with data, logic and language, love collaborations on new projects with like-minded people and learning all the time!
 
 - 🌱  I’m currently learning C++
 
